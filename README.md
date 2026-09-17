@@ -1,6 +1,6 @@
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250"/>
 
-### Hi, I'm Sameera ✨
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F75CA2&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Sameera+%E2%9C%A8;B.Tech+Student+From+Hyderabad;Python+%7C+Web+Dev+Lover;Dreaming+Big+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 - 🌱 Learning B.Tech & Coding
 - 💻 Loves Web Development & Python
