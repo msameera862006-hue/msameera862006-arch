@@ -1,10 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=F75CA2&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Sameera+%E2%9C%A8;B.Tech+Student+%F0%9F%92%BB;Python+%26+Web+Dev+Lover+%F0%9F%92%96;Dreaming+Big+From+Hyderabad+%F0%9F%9A%80)](https://git.io/typing-svg)
-
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250"/>
+
+### Hi, I'm Sameera ✨
 
 - 🌱 Learning B.Tech & Coding
 - 💻 Loves Web Development & Python
 - 📍 Hyderabad, India
+- ✨ Dreaming Big
 
 ---
 ### 🛠️ Tech Stack
